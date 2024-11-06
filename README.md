@@ -6,5 +6,7 @@
 ## [Tamrin 5](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-5.pdf)
 # اسکرایبینگ‌های درس هوش مصنوعی
 ## [Scribing 1](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_1.jpg)
+## [Scribing 1](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_2.jpg)
+## [Scribing 1](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_3.jpg)
 ## [Scribing 4](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_4.jpg)
 
