@@ -17,6 +17,11 @@
 ## [Scribing 5](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_5.jpg)
 
 # تمرین‌های سرکلاس
+## [Class_Tamrin 1](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin_inclass.jpg)
+## [Class_Tamrin 2 & 3](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin_inclass_2_part2.jpg)
+
+
+
 
 
 
