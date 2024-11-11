@@ -14,4 +14,7 @@
 ## [Scribing 4](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_4.jpg)
 ## [Scribing 5](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_5.jpg)
 
+# تمرین‌های سرکلاس
+
+
 
