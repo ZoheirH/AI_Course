@@ -20,7 +20,11 @@
 
 # تمرین‌های سرکلاس
 ## [Class_Tamrin 1](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin_inclass.jpg)
-## [Class_Tamrin 2 & 3](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin_inclass_2_part2.jpg)
+## [Class_Tamrin 2](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin_inclass_2_part2.jpg)
+## [Class_Tamrin 3](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin_inclass_3.jpg)
+## [Class_Tamrin 4](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin_inclass_4.jpg)
+
+
 
 
 
