@@ -6,7 +6,7 @@
 ## [Tamrin 5](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-5.pdf)
 ## [Tamrin 5 PNG File](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-5.png)
 ## [Tamrin 6](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-6.png)
-## [Tamrin 7](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-7.png)
+## [Tamrin 7](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-7.jpg)
 
 
 
