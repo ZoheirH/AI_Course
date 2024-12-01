@@ -7,6 +7,8 @@
 ## [Tamrin 5 PNG File](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-5.png)
 ## [Tamrin 6](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-6.png)
 ## [Tamrin 7](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-7.jpg)
+## [Tamrin 8](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-8.jpg)
+
 
 
 
@@ -18,6 +20,10 @@
 ## [Scribing 4](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_4.jpg)
 ## [Scribing 5](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_5.jpg)
 ## [Scribing 6](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_6.jpg)
+## [Scribing 7](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_7.jpg)
+## [Scribing 8](https://github.com/ZoheirH/AI_Course/blob/main/Scribing_8.jpg)
+
+
 
 
 # تمرین‌های سرکلاس
