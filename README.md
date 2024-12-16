@@ -8,6 +8,7 @@
 ## [Tamrin 6](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-6.png)
 ## [Tamrin 7](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-7.jpg)
 ## [Tamrin 8](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-8.jpg)
+## [Tamrin 9](https://github.com/ZoheirH/AI_Course/blob/main/Tamrin-9.jpg)
 
 
 
